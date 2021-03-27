@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-id="canal5.es" tvg-country="ES" tvg-logo="https://i.ibb.co/6v26hTd/Canal-5-M-xico-2016.png" group-title="Nacional" ,Canal 5
-http://ipeteve.com/php/SR_REGIO231213/tp.php?c=20&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-chno="2" tvg-id="canalOnce.es" tvg-country="ES" tvg-logo="https://i.ibb.co/5T2vQdW/Once-TVLogo7.png" group-title="Nacional", ONCE NINOS (CLASES)
-http://ipeteve.com/php/SR_REGIO231213/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ONCE NINOS (CLASES)
+http://ipeteve.com/php/REGIO_PLAY21321231/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AZTECA 7.3 (CLASES)
+http://ipeteve.com/php/REGIO_PLAY21321231/tp.php?c=3316&p=3&k=srregio&f=.m3u8  
