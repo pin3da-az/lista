@@ -73,3 +73,36 @@ http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2606&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MULTIMEDIOS HD
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2882&p=3&k=srregio&f=.m3u8 
+
+*** INFANTILES ***
+#EXTINF:-1, TOONCAST
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=108&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=109&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=110&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY XD
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=111&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=112&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=113&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BOOMERANG
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=115&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, BABY TV 
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=116&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK JR
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=117&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY JR
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=118&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, NICKTOONS SD 
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BABY FIRST
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK 2  
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, NAT GEO KIDS  
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, BIT ME  
+http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+
