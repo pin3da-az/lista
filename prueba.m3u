@@ -75,17 +75,17 @@ http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2703&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2882&p=3&k=srregio&f=.m3u8 
 
 *** INFANTILES ***
-#EXTINF:-1, TOONCAST
+#EXTINF:-1 group-title="Infantiles", TOONCAST
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=108&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISCOVERY KIDS
+#EXTINF:-1 group-title="Infantiles", DISCOVERY KIDS
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=109&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NICK
+#EXTINF:-1 group-title="Infantiles", NICK
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=110&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISNEY XD
+#EXTINF:-1 group-title="Infantiles", DISNEY XD
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=111&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CARTOON NETWORK
+#EXTINF:-1 group-title="Infantiles", CARTOON NETWORK
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=112&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISNEY CHANNEL
+#EXTINF:-1 group-title="Infantiles", DISNEY CHANNEL
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=113&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, BOOMERANG
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=115&p=3&k=srregio&f=.m3u8 
@@ -105,4 +105,3 @@ http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2147&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, BIT ME  
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2591&p=3&k=srregio&f=.m3u8
-
