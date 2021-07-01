@@ -1,5 +1,12 @@
 #EXTM3U
-*******Series*****
-#EXTINF:0 group-title="Disney+"
-#EXTINF:-1 group-title="loki" group-title="Disney+" group-title="Series",Loki cap4
+
+#EXTINF:-1 group-title="Disney+", Luca
+https://stream-3991-48-215.pvdcdn.co/lioho3dmhyikkfn2mbbpqmahm3pjrn4gi4kt6efiyixmemcisnjixmqidm/dx2u60ib2vl4.m3u8
+
+#EXTINF:-1 group-title="Serie Loki", Loki cap4
 https://stream-4591-212-98.pvdcdn.co/kaohozcmhyikkfn2mbapqmknh3vknps3qklzlq37cg5em6qoymjjzmatr4/e2j1v6zeee8j.m3u8
+
+#EXTINF:-1 group-title="Pelicula Estreno", El conjuro 3
+https://stream-4891-212-105.pvdcdn.co/juohps3xhyikkfn2mbgpqyshm5zzcsnfqjbj5spbcwd4gpodszetp2asfm/683fubs1wozu.m3u8
+#EXTINF:-1 group-title="Pelicula Estreno", Spirit Indomable
+https://stream-4338-55-56.pvdcdn.co/kyohpskjhyikkfn2mbb7qlq5empterlroohxxpk3kflac3nixc34vzqi3m/zbwk4v8fpsdj.m3u8
