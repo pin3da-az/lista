@@ -225,7 +225,7 @@ http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=48&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=52&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://i.ibb.co/q7K0fBy/eENTRETENIMIENTO.png" group-title="ENTRETENIMIENTO", E!
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=55&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-name="Universal Channel" tvg-logo="https://i.ibb.co/9G1gCDZ/universal-chanel.png" group-title="ENTRETENIMEINTO", UNIVERSAL
+#EXTINF:-1 tvg-name="Universal Channel" tvg-logo="https://i.ibb.co/9G1gCDZ/universal-chanel.png" group-title="ENTRETENIMIENTO", UNIVERSAL
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=57&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J5cwqW0/Syfy.png" group-title="ENTRETENIMIENTO", SYFY
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=59&p=3&k=srregio&f=.m3u8  
