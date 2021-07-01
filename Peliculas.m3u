@@ -1,4 +1,4 @@
-#EXTM3U
 *******Series*****
-#EXTINF:-1 group-title="Series Disney+",Loki
+#EXTINF:0 group-title="Disney+"
+#EXTINF:-1 group-title="loki" group-title="Disney+" group-title="Series",Loki cap4
 https://stream-4591-212-98.pvdcdn.co/kaohozcmhyikkfn2mbapqmknh3vknps3qklzlq37cg5em6qoymjjzmatr4/e2j1v6zeee8j.m3u8
