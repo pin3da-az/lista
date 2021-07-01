@@ -406,6 +406,9 @@ http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=223&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-name="VH1 HD" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA", VH1 HD
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1  group-title="MUSICA", EXATV
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=exatv&f=.m3u8
+
 
 
 
