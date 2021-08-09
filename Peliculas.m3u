@@ -10,14 +10,14 @@ http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
 
 #EXTINF:0 tvg-name="Escuadron Suicida" tvg-logo="https://inshusposters.com/wp-content/uploads/2021/04/The-Suicide-Squad-1-Inshus-Posters.jpg" group-title="Pelicula Estreno", Suicide Squad (2021)
 http://vod.tuxchannel.tv/peliculas/720/the%20suicide%20squad%202021.mkv
-#EXTINF:0 group-title="Pelicula Estreno", El conjuro 3
+#EXTINF:0 tvg-name="Conjuro 3" tvg-logo="https://i.ibb.co/LZxgKfx/36204-715581-20210601021907.jpg" group-title="Pelicula Estreno", El conjuro 3
 http://vod.tuxchannel.tv/peliculas/720/the%20conjuring%20the%20devil%20made%20me%20do%20it%202021.mkv
-#EXTINF:0 group-title="Pelicula Estreno", Spirit Indomable
+#EXTINF:0 tvg-name="Spirit Indomable" tvg-logo="https://i.ibb.co/JntHmW2/5557428.jpg" group-title="Pelicula Estreno", Spirit Indomable
 http://vod.tuxchannel.tv/peliculas/720/spirit%20untamed%202021.mkv
-#EXTINF:0 group-title="Pelicula Estreno", Jefe en pañales 2
+#EXTINF:0 tvg-name="Jefe en pañales 2" tvg-logo="https://i.ibb.co/31zP5b6/36401-547465-20210721035236.jpg" group-title="Pelicula Estreno", Jefe en pañales 2
 http://vod.tuxchannel.tv/peliculas/720/the%20boss%20baby%20family%20business%202021.mkv
-#EXTINF:0 group-title="Pelicula Estreno", La casa de las flores
+#EXTINF:0 tvg-name="La casa de las flores" tvg-logo="https://i.ibb.co/jMs5YCx/La-casa-de-las-flores-Serie-de-TV-363345426-large.jpg" group-title="Pelicula Estreno", La casa de las flores
 http://vod.tuxchannel.tv/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
 
-#EXTINF:0 group-title="HBO+", Wonder Woman 1984 (2020)
+#EXTINF:0 tvg-name"Wonder Woman" tvg-logo="https://i.ibb.co/rFK969b/162388.jpg" group-title="HBO+", Wonder Woman 1984 (2020)
 http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
