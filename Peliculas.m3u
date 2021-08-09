@@ -1,11 +1,12 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Disney+", Luca
+#EXTINF:0 tvg-name="Luca" tvg-logo="https://static.wikia.nocookie.net/disney/images/c/cc/Luca_poster.jpg" group-title="Disney+", Luca
 http://vod.tuxchannel.tv/peliculas/720/luca%202021.mkv
-EXTINF:0 group-title="Disney+", Cruella
+EXTINF:0 tvg-name="Cruella" tvg-logo="https://static.wikia.nocookie.net/disney/images/9/95/Cruella_official_poster.jpg" group-title="Disney+", Cruella
 http://vod.tuxchannel.tv/peliculas/720/cruella%202021.mkv
-EXTINF:0 group-title="Disney+", Soul
+EXTINF:0 tvg-name="Soul" tvg-logo="https://i.ibb.co/JvKqWHK/Soul.jpg" group-title="Disney+", Soul
 http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
+
 
 #EXTINF:0 tvg-name="Escuadron Suicida" tvg-logo="https://inshusposters.com/wp-content/uploads/2021/04/The-Suicide-Squad-1-Inshus-Posters.jpg" group-title="Pelicula Estreno", Suicide Squad (2021)
 http://vod.tuxchannel.tv/peliculas/720/the%20suicide%20squad%202021.mkv
