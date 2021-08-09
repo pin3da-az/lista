@@ -32,5 +32,11 @@ http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
 
 #EXTINF:0 tvg-name="Home" tvg-logo="https://i.ibb.co/8zgyFj7/242395.jpg" group-title="Familiar", Home
 http://tux-vod.dynu.com/peliculas/720/home.mkv
+#EXTINF:0 tvg-name="Zootopia" tvg-logo="https://i.ibb.co/z2DSLfm/466493.jpg" group-title="Familiar", Zootopia
+http://tux-vod.dynu.com/peliculas/720/zootopia.mkv
+#EXTINF:0 tvg-name="Intensamente" tvg-logo="https://i.ibb.co/F7JZHRL/Zootopia.png" group-title="Familiar", Intensamente
+http://tux-vod.dynu.com/peliculas/720/inside%20out.mkv
 
+#EXTINF:0 tvg-name="La purga" tvg-logo="https://i.ibb.co/mFMnSr2/0609737.jpg" group-title="Terror", La purga infinita
+http://vod.tuxchannel.tv/peliculas/720/the%20forever%20purge%202021.mkv
 
