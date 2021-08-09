@@ -9,22 +9,28 @@ http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
 #EXTINF:0 tvg-name="Black Widow" tvg-logo="https://i.ibb.co/Npxr0FQ/914-MHu-Df-MSL.jpg" group-title="Disney+", Black Widow
 http://vod.tuxchannel.tv/peliculas/720/black%20widow%202021.mkv
 
-#EXTINF:0 tvg-name="Fast and Furious 9" tvg-logo="https://i.ibb.co/KxqN5mM/Fast-Furious-9-833854731-mmed.jpg" group-title="Pelicula Estreno", Fast & Furious 9
+#EXTINF:0 tvg-name="Fast and Furious 9" tvg-logo="https://i.ibb.co/KxqN5mM/Fast-Furious-9-833854731-mmed.jpg" group-title="Estreno", Fast & Furious 9
 http://vod.tuxchannel.tv/peliculas/720/fast%20and%20furious%209%202021.mkv
-#EXTINF:0 tvg-name="Space Jam a new Legacy" tvg-logo="https://i.ibb.co/XCZpQgk/36404-482709-20210706093527.jpg" group-title="Pelicula Estreno", Space Jam a new Legacy
+#EXTINF:0 tvg-name="Space Jam a new Legacy" tvg-logo="https://i.ibb.co/XCZpQgk/36404-482709-20210706093527.jpg" group-title="Estreno", Space Jam a new Legacy
 http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
-#EXTINF:0 tvg-name="Teen Titans Go Space Jam" tvg-logo="https://i.ibb.co/SPJhGpN/S2-LJQD4-JPVDHXIJCZHBYRSEDYY.jpg" group-title="Pelicula Estreno", Teen Titans Go Space Jam (2021)
+#EXTINF:0 tvg-name="Teen Titans Go Space Jam" tvg-logo="https://i.ibb.co/SPJhGpN/S2-LJQD4-JPVDHXIJCZHBYRSEDYY.jpg" group-title="Estreno", Teen Titans Go Space Jam (2021)
 http://vod.tuxchannel.tv/peliculas/720/teen%20titans%20go%20see%20space%20jam%202021.mkv
-#EXTINF:0 tvg-name="Escuadron Suicida" tvg-logo="https://inshusposters.com/wp-content/uploads/2021/04/The-Suicide-Squad-1-Inshus-Posters.jpg" group-title="Pelicula Estreno", Suicide Squad (2021)
+#EXTINF:0 tvg-name="Escuadron Suicida" tvg-logo="https://inshusposters.com/wp-content/uploads/2021/04/The-Suicide-Squad-1-Inshus-Posters.jpg" group-title="Estreno", Suicide Squad (2021)
 http://vod.tuxchannel.tv/peliculas/720/the%20suicide%20squad%202021.mkv
-#EXTINF:0 tvg-name="Conjuro 3" tvg-logo="https://i.ibb.co/LZxgKfx/36204-715581-20210601021907.jpg" group-title="Pelicula Estreno", El conjuro 3
+#EXTINF:0 tvg-name="Conjuro 3" tvg-logo="https://i.ibb.co/LZxgKfx/36204-715581-20210601021907.jpg" group-title="Estreno", El conjuro 3
 http://vod.tuxchannel.tv/peliculas/720/the%20conjuring%20the%20devil%20made%20me%20do%20it%202021.mkv
-#EXTINF:0 tvg-name="Spirit Indomable" tvg-logo="https://i.ibb.co/JntHmW2/5557428.jpg" group-title="Pelicula Estreno", Spirit Indomable
+#EXTINF:0 tvg-name="Spirit Indomable" tvg-logo="https://i.ibb.co/JntHmW2/5557428.jpg" group-title="Estreno", Spirit Indomable
 http://vod.tuxchannel.tv/peliculas/720/spirit%20untamed%202021.mkv
-#EXTINF:0 tvg-name="Jefe en pañales 2" tvg-logo="https://i.ibb.co/31zP5b6/36401-547465-20210721035236.jpg" group-title="Pelicula Estreno", Jefe en pañales 2
+#EXTINF:0 tvg-name="Jefe en pañales 2" tvg-logo="https://i.ibb.co/31zP5b6/36401-547465-20210721035236.jpg" group-title="Estreno", Jefe en pañales 2
 http://vod.tuxchannel.tv/peliculas/720/the%20boss%20baby%20family%20business%202021.mkv
-#EXTINF:0 tvg-name="La casa de las flores" tvg-logo="https://i.ibb.co/jMs5YCx/La-casa-de-las-flores-Serie-de-TV-363345426-large.jpg" group-title="Pelicula Estreno", La casa de las flores
+#EXTINF:0 tvg-name="La casa de las flores" tvg-logo="https://i.ibb.co/jMs5YCx/La-casa-de-las-flores-Serie-de-TV-363345426-large.jpg" group-title="Estreno", La casa de las flores
 http://vod.tuxchannel.tv/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
 
 #EXTINF:0 tvg-name"Wonder Woman" tvg-logo="https://i.ibb.co/rFK969b/162388.jpg" group-title="HBO+", Wonder Woman 1984 (2020)
 http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
+
+
+#EXTINF:0 tvg-name="Home" tvg-logo="https://i.ibb.co/8zgyFj7/242395.jpg" group-title="Familiar", Home
+http://tux-vod.dynu.com/peliculas/720/home.mkv
+
+
