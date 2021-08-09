@@ -1,32 +1,22 @@
 #EXTM3U
 
 #EXTINF:0 group-title="Disney+", Luca
-http://ipeteve.com/REGIOFLIX100321/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
+http://vod.tuxchannel.tv/peliculas/720/luca%202021.mkv
 EXTINF:0 group-title="Disney+", Cruella
-http://ipeteve.com/REGIOFLIX100321/Cruella.SrRegio.mp4
+http://vod.tuxchannel.tv/peliculas/720/cruella%202021.mkv
 EXTINF:0 group-title="Disney+", Soul
-http://ipeteve.com/REGIOFLIX100321/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
+http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
 
-#EXTINF:-1 group-title="Serie Loki", Loki cap1
-https://pr11.sbcdnvid.com/hls/tysxfjidvg66j6cdab4bzxsjoiju5sbpgodynhymwrj527alvdi5bcihfelq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Serie Loki", Loki cap2
-https://www539.ff-02.com/token=FioO7uN2aVF1pnVPkPsgkg/1625121895/187.244.0.0/170/1/ce/4f20f813455986e0751c4456d8f98ce1-480p.mp4
-#EXTINF:-1 group-title="Serie Loki", Loki cap3
-https://www1021.ff-03.com/token=X-dhDQqOGMsWOFQqFpyC0g/1625122046/187.244.0.0/171/3/2a/fb9797578b17e960055c7d1216cd32a3-480p.mp4
-#EXTINF:-1 group-title="Serie Loki", Loki cap4
-https://stream-4591-212-98.pvdcdn.co/kaohozcmhyikkfn2mbapqmknh3vknps3qklzlq37cg5em6qoymjjzmatr4/e2j1v6zeee8j.m3u8
-
+#EXTINF:0 group-title="Pelicula Estreno", Suicide Squad (2021)
+http://vod.tuxchannel.tv/peliculas/720/the%20suicide%20squad%202021.mkv
 #EXTINF:0 group-title="Pelicula Estreno", El conjuro 3
-http://ipeteve.com/REGIOFLIX100321/el%20conjuro%203%201080p-srregio.net.mkv
-#EXTINF:-1 group-title="Pelicula Estreno", Spirit Indomable
-https://str09.vidoza.net/nvl4hml5rqeuieno3xua3wf7hbjlp3nspahvpnvc333coveyiy2j2tl4aq7a/v.mp4
-#EXTINF:0 group-title="Pelicula Estreno", Bebe en pañales 2 opc 1 streamplay.to
-https://stream-3891-64-63.pvdcdn.co/lmohp6fdh4ikkfn2mbapqpkgm4eawb7pftixztuufnndmi5o47t5pr2uei/v.mp4
-#EXTINF:0 group-title="Pelicula Estreno", bebe en pañales opc 2 servidor vidoza.net
-https://cache60.vidoza.net/nvl4d7ihrmeuieno3x6a3hvlnutmwwrnzyixauxkewlsgsg3tf3awdaelmoa/v.mp4
+http://vod.tuxchannel.tv/peliculas/720/the%20conjuring%20the%20devil%20made%20me%20do%20it%202021.mkv
+#EXTINF:0 group-title="Pelicula Estreno", Spirit Indomable
+http://vod.tuxchannel.tv/peliculas/720/spirit%20untamed%202021.mkv
+#EXTINF:0 group-title="Pelicula Estreno", Jefe en pañales 2
+http://vod.tuxchannel.tv/peliculas/720/the%20boss%20baby%20family%20business%202021.mkv
+#EXTINF:0 group-title="Pelicula Estreno", La casa de las flores
+http://vod.tuxchannel.tv/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
 
 #EXTINF:0 group-title="HBO+", Wonder Woman 1984 (2020)
-http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-
-#EXTINF:0 group-title="HBO+", black
-http://127.0.0.1:32400/library/parts/462/1625896598/file.mp4?X-Plex-Session-Identifier=q2k6hxpavf47eomd0tn5yfc0&X-Plex-Product=Plex%20Web&X-Plex-Version=4.57.4&X-Plex-Client-Identifier=wkzpnj2r19sedy5mp5xpcqwg&X-Plex-Platform=Chrome&X-Plex-Platform-Version=91.0&X-Plex-Sync-Version=2&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1680x907%2C1680x1050&X-Plex-Token=5e3zGzSt-Kx1X18aZ4Et&X-Plex-Language=es&Accept-Language=es
+http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
