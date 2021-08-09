@@ -7,7 +7,7 @@ http://vod.tuxchannel.tv/peliculas/720/cruella%202021.mkv
 EXTINF:0 group-title="Disney+", Soul
 http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
 
-#EXTINF:0 group-title="Pelicula Estreno", Suicide Squad (2021)
+#EXTINF:0 tvg-name="Escuadron Suicida" tvg-logo="https://inshusposters.com/wp-content/uploads/2021/04/The-Suicide-Squad-1-Inshus-Posters.jpg" group-title="Pelicula Estreno", Suicide Squad (2021)
 http://vod.tuxchannel.tv/peliculas/720/the%20suicide%20squad%202021.mkv
 #EXTINF:0 group-title="Pelicula Estreno", El conjuro 3
 http://vod.tuxchannel.tv/peliculas/720/the%20conjuring%20the%20devil%20made%20me%20do%20it%202021.mkv
