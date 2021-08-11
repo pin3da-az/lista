@@ -36,7 +36,12 @@ http://tux-vod.dynu.com/peliculas/720/home.mkv
 http://tux-vod.dynu.com/peliculas/720/zootopia.mkv
 #EXTINF:0 tvg-name="Intensamente" tvg-logo="https://i.ibb.co/F7JZHRL/Zootopia.png" group-title="Familiar", Intensamente
 http://tux-vod.dynu.com/peliculas/720/inside%20out.mkv
+#EXTINF:0 tvg-name="Ralph Wifi" tvg-logo="https://i.ibb.co/808B9Dn/wfr-poster.jpg" group-title="Familiar", Ralph Wifi
+http://tux-vod.dynu.com/peliculas/720/wifi%20ralph.mkv
+#EXTINF:0 tvg-name="Ralph" tvg-logo="https://i.ibb.co/kq8R5R4/Wreck-It-Ralph-Poster.jpg" group-title="Familiar", Ralph 
+http://tux-vod.dynu.com/peliculas/720/wreck-it%20ralph.mkv
+#EXTINF:0 tvg-name="Cars 3" tvg-logo="https://i.ibb.co/6Rm0SNg/187933.jpg" group-title="Familiar", Cars 3
+http://tux-vod.dynu.com/peliculas/720/cars%203.mkv
 
 #EXTINF:0 tvg-name="La purga" tvg-logo="https://i.ibb.co/mFMnSr2/0609737.jpg" group-title="Terror", La purga infinita
 http://vod.tuxchannel.tv/peliculas/720/the%20forever%20purge%202021.mkv
-
