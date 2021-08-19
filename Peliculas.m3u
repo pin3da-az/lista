@@ -1,5 +1,10 @@
 #EXTM3U
 
+***** PRUEBA *****
+
+
+
+
 *************************** DYSNEY+ *****************************
 #EXTINF:0 tvg-name="Luca" tvg-logo="https://static.wikia.nocookie.net/disney/images/c/cc/Luca_poster.jpg" group-title="Disney+", Luca
 http://vod.tuxchannel.tv/peliculas/720/luca%202021.mkv
@@ -22,15 +27,29 @@ http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/teen%20titans%20go%20see%20space%20jam%202021.mkv
 #EXTINF:0 tvg-name="Escuadron Suicida" tvg-logo="https://inshusposters.com/wp-content/uploads/2021/04/The-Suicide-Squad-1-Inshus-Posters.jpg" group-title="Estreno", Suicide Squad (2021)
 http://vod.tuxchannel.tv/peliculas/720/the%20suicide%20squad%202021.mkv
-#EXTINF:0 tvg-name="Conjuro 3" tvg-logo="https://i.ibb.co/LZxgKfx/36204-715581-20210601021907.jpg" group-title="Estreno", El conjuro 3
-http://vod.tuxchannel.tv/peliculas/720/the%20conjuring%20the%20devil%20made%20me%20do%20it%202021.mkv
-#EXTINF:0 tvg-name="Spirit Indomable" tvg-logo="https://i.ibb.co/JntHmW2/5557428.jpg" group-title="Estreno", Spirit Indomable
-http://vod.tuxchannel.tv/peliculas/720/spirit%20untamed%202021.mkv
-#EXTINF:0 tvg-name="Jefe en pañales 2" tvg-logo="https://i.ibb.co/31zP5b6/36401-547465-20210721035236.jpg" group-title="Estreno", Jefe en pañales 2
-http://vod.tuxchannel.tv/peliculas/720/the%20boss%20baby%20family%20business%202021.mkv
-#EXTINF:0 tvg-name="La casa de las flores" tvg-logo="https://i.ibb.co/jMs5YCx/La-casa-de-las-flores-Serie-de-TV-363345426-large.jpg" group-title="Estreno", La casa de las flores
+#EXTINF:0 tvg-name="El exorcismo de Carmen Farias" tvg-logo="https://i.ibb.co/HG9MBKg/36171-332410-20210422124156.jpg" group-title="Estreno", El exorcismo de Carmen Farias (2021)
+http://vod.tuxchannel.tv/peliculas/720/el%20exorcismo%20de%20carmen%20farias%202021.mkv
+#EXTINF:0 tvg-name="El Traficante" tvg-logo="https://i.ibb.co/HGSznLm/body-brokers-135259627-large.jpg" group-title="Estreno", El Traficante (2021)
+http://vod.tuxchannel.tv/peliculas/720/body%20brokers%202021.mkv
+#EXTINF:0 tvg-name="Mudanza Mortal" tvg-logo="https://i.ibb.co/RTFCX3j/Mudanza-mortal-356962950-large.jpg" group-title="Estreno", Mudanza Mortal (2021)
+http://vod.tuxchannel.tv/peliculas/720/aftermath%202021.mkv
+------Netlifx--
+#EXTINF:0 tvg-name="Shiny Flakes" tvg-logo="https://i.ibb.co/N7jwV9R/Mul-n-807158695-large.jpg" group-title="Estreno", Shiny Flakes: El cibernarco adolescente (2021)
+http://vod.tuxchannel.tv/peliculas/720/shiny%20flakes%20the%20teenage%20drug%20lord%202021.mkv
+------Netlifx--
+#EXTINF:0 tvg-name="Sueño Mortal" tvg-logo="https://i.ibb.co/pdcdvHy/Sue-o-mortal-961391882-large.jpg" group-title="Estreno", Sueño Mortal
+http://vod.tuxchannel.tv/peliculas/720/deep%202021.mkv
+#EXTINF:0 tvg-name="Terapia de miedo" tvg-logo="https://i.ibb.co/Jc7j311/Terapia-de-miedo.jpg" group-title="Estreno", Terapia de miedo
+http://vod.tuxchannel.tv/peliculas/720/terapia%20do%20medo%202021.mkv
+
+
+
+*************************** NETFLIX ************************
+#EXTINF:0 tvg-name="La casa de las flores" tvg-logo="https://i.ibb.co/jMs5YCx/La-casa-de-las-flores-Serie-de-TV-363345426-large.jpg" group-title="Netflix", La casa de las flores
 http://vod.tuxchannel.tv/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
 
+
+*************************** HBO+ ************************
 #EXTINF:0 tvg-name"Wonder Woman" tvg-logo="https://i.ibb.co/rFK969b/162388.jpg" group-title="HBO+", Wonder Woman 1984 (2020)
 http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
 
@@ -48,10 +67,17 @@ http://tux-vod.dynu.com/peliculas/720/wifi%20ralph.mkv
 http://tux-vod.dynu.com/peliculas/720/wreck-it%20ralph.mkv
 #EXTINF:0 tvg-name="Cars 3" tvg-logo="https://i.ibb.co/6Rm0SNg/187933.jpg" group-title="Infantil", Cars 3
 http://tux-vod.dynu.com/peliculas/720/cars%203.mkv
+#EXTINF:0 tvg-name="Jefe en pañales 2" tvg-logo="https://i.ibb.co/31zP5b6/36401-547465-20210721035236.jpg" group-title="Infantil", Jefe en pañales 2
+http://vod.tuxchannel.tv/peliculas/720/the%20boss%20baby%20family%20business%202021.mkv
+#EXTINF:0 tvg-name="Spirit Indomable" tvg-logo="https://i.ibb.co/JntHmW2/5557428.jpg" group-title="Infantil", Spirit Indomable
+http://vod.tuxchannel.tv/peliculas/720/spirit%20untamed%202021.mkv
 
+
+*********************** TERROR **********************
 #EXTINF:0 tvg-name="La purga" tvg-logo="https://i.ibb.co/mFMnSr2/0609737.jpg" group-title="Terror", La purga infinita
 http://vod.tuxchannel.tv/peliculas/720/the%20forever%20purge%202021.mkv
-
+#EXTINF:0 tvg-name="Conjuro 3" tvg-logo="https://i.ibb.co/LZxgKfx/36204-715581-20210601021907.jpg" group-title="Terror", El conjuro 3
+http://vod.tuxchannel.tv/peliculas/720/the%20conjuring%20the%20devil%20made%20me%20do%20it%202021.mkv
 
 
 *********************** MARVEL **********************
