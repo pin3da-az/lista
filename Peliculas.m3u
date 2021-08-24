@@ -19,6 +19,8 @@ http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
 
 
 *************************** ESTRENOS *****************************
+#EXTINF:0 tvg-name="Paw Patrol" tvg-logo="https://i.ibb.co/tH2Vdkp/Paw-Patrol-La-pel-cula-626479283-large.jpg" group-title="Estreno", Paw Patrol The Movie
+https://s11.upstreamcdn.co/hls/w47rzdipzfbnx2nro3gk6ufalqp3a7j7k4rse2ojsprtnojurz2prgiqe6la/index-v1-a1.m3u8
 #EXTINF:0 tvg-name="Fast and Furious 9" tvg-logo="https://i.ibb.co/KxqN5mM/Fast-Furious-9-833854731-mmed.jpg" group-title="Estreno", Fast & Furious 9
 http://vod.tuxchannel.tv/peliculas/720/fast%20and%20furious%209%202021.mkv
 #EXTINF:0 tvg-name="Space Jam a new Legacy" tvg-logo="https://i.ibb.co/XCZpQgk/36404-482709-20210706093527.jpg" group-title="Estreno", Space Jam a new Legacy
