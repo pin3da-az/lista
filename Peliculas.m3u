@@ -16,44 +16,46 @@ http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/black%20widow%202021.mkv
 #EXTINF:0 tvg-name="Mulan" tvg-logo="https://i.ibb.co/0jfkTtM/Mul-n-807158695-large.jpg" group-title="Disney+", Mulan
 http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
+#EXTINF:0 tvg-name="Moana" tvg-logo="https://i.ibb.co/hDwJS3r/36171-332410-20210422124156.jpg" group-title="Disney+", Moana
+http://193.34.144.178/Bryan/pelisdisney/Ver%20Moana-%20Un%20Mar%20de%20Aventuras%20(2016)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+#EXTINF:0 tvg-name="Up" tvg-logo="https://i.ibb.co/93Nmdds/Up-poster.jpg" group-title="Disney+", Up
+http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Up,%20una%20Aventura%20de%20Altura%20Online%20Gratis.MP4
 
 
 *************************** ESTRENOS *****************************
 #EXTINF:0 tvg-name="Paw Patrol" tvg-logo="https://i.ibb.co/tH2Vdkp/Paw-Patrol-La-pel-cula-626479283-large.jpg" group-title="Estreno", Paw Patrol The Movie
-https://s11.upstreamcdn.co/hls/w47rzdipzfbnx2nro3gk6ufalqp3a7j7k4rse2ojsprtnojurz2prgiqe6la/index-v1-a1.m3u8
-#EXTINF:0 tvg-name="Fast and Furious 9" tvg-logo="https://i.ibb.co/KxqN5mM/Fast-Furious-9-833854731-mmed.jpg" group-title="Estreno", Fast & Furious 9
+https://s11.upstreamcdn.co/hls/w47rzdipzfbnx2nro3gk6ufalqp3a7j7k4rse2ojsprtnojurtogxxonef4q/index-v1-a1.m3u8
+
+
+
+***************************  PELICULAS *****************************
+#EXTINF:0 tvg-name="Fast and Furious 9" tvg-logo="https://i.ibb.co/KxqN5mM/Fast-Furious-9-833854731-mmed.jpg" group-title="", Fast & Furious 9
 http://vod.tuxchannel.tv/peliculas/720/fast%20and%20furious%209%202021.mkv
-#EXTINF:0 tvg-name="Space Jam a new Legacy" tvg-logo="https://i.ibb.co/XCZpQgk/36404-482709-20210706093527.jpg" group-title="Estreno", Space Jam a new Legacy
-http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
-#EXTINF:0 tvg-name="Teen Titans Go Space Jam" tvg-logo="https://i.ibb.co/SPJhGpN/S2-LJQD4-JPVDHXIJCZHBYRSEDYY.jpg" group-title="Estreno", Teen Titans Go Space Jam (2021)
-http://vod.tuxchannel.tv/peliculas/720/teen%20titans%20go%20see%20space%20jam%202021.mkv
-#EXTINF:0 tvg-name="Escuadron Suicida" tvg-logo="https://inshusposters.com/wp-content/uploads/2021/04/The-Suicide-Squad-1-Inshus-Posters.jpg" group-title="Estreno", Suicide Squad (2021)
-http://vod.tuxchannel.tv/peliculas/720/the%20suicide%20squad%202021.mkv
-#EXTINF:0 tvg-name="El exorcismo de Carmen Farias" tvg-logo="https://i.ibb.co/HG9MBKg/36171-332410-20210422124156.jpg" group-title="Estreno", El exorcismo de Carmen Farias (2021)
-http://vod.tuxchannel.tv/peliculas/720/el%20exorcismo%20de%20carmen%20farias%202021.mkv
-#EXTINF:0 tvg-name="El Traficante" tvg-logo="https://i.ibb.co/HGSznLm/body-brokers-135259627-large.jpg" group-title="Estreno", El Traficante (2021)
+#EXTINF:0 tvg-name="El Traficante" tvg-logo="https://i.ibb.co/HGSznLm/body-brokers-135259627-large.jpg" group-title="", El Traficante (2021)
 http://vod.tuxchannel.tv/peliculas/720/body%20brokers%202021.mkv
-#EXTINF:0 tvg-name="Mudanza Mortal" tvg-logo="https://i.ibb.co/RTFCX3j/Mudanza-mortal-356962950-large.jpg" group-title="Estreno", Mudanza Mortal (2021)
-http://vod.tuxchannel.tv/peliculas/720/aftermath%202021.mkv
-------Netlifx--
-#EXTINF:0 tvg-name="Shiny Flakes" tvg-logo="https://i.ibb.co/N7jwV9R/Mul-n-807158695-large.jpg" group-title="Estreno", Shiny Flakes: El cibernarco adolescente (2021)
-http://vod.tuxchannel.tv/peliculas/720/shiny%20flakes%20the%20teenage%20drug%20lord%202021.mkv
-------Netlifx--
-#EXTINF:0 tvg-name="Sueño Mortal" tvg-logo="https://i.ibb.co/pdcdvHy/Sue-o-mortal-961391882-large.jpg" group-title="Estreno", Sueño Mortal
-http://vod.tuxchannel.tv/peliculas/720/deep%202021.mkv
-#EXTINF:0 tvg-name="Terapia de miedo" tvg-logo="https://i.ibb.co/Jc7j311/Terapia-de-miedo.jpg" group-title="Estreno", Terapia de miedo
-http://vod.tuxchannel.tv/peliculas/720/terapia%20do%20medo%202021.mkv
+
+
+
 
 
 
 *************************** NETFLIX ************************
 #EXTINF:0 tvg-name="La casa de las flores" tvg-logo="https://i.ibb.co/jMs5YCx/La-casa-de-las-flores-Serie-de-TV-363345426-large.jpg" group-title="Netflix", La casa de las flores
 http://vod.tuxchannel.tv/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
-
+#EXTINF:0 tvg-name="Sueño Mortal" tvg-logo="https://i.ibb.co/pdcdvHy/Sue-o-mortal-961391882-large.jpg" group-title="Netflix", Sueño Mortal
+http://vod.tuxchannel.tv/peliculas/720/deep%202021.mkv
+#EXTINF:0 tvg-name="Shiny Flakes" tvg-logo="https://i.ibb.co/N7jwV9R/Mul-n-807158695-large.jpg" group-title="Netflix", Shiny Flakes: El cibernarco adolescente (2021)
+http://vod.tuxchannel.tv/peliculas/720/shiny%20flakes%20the%20teenage%20drug%20lord%202021.mkv
 
 *************************** HBO+ ************************
 #EXTINF:0 tvg-name"Wonder Woman" tvg-logo="https://i.ibb.co/rFK969b/162388.jpg" group-title="HBO+", Wonder Woman 1984 (2020)
 http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
+#EXTINF:0 tvg-name="Escuadron Suicida" tvg-logo="https://inshusposters.com/wp-content/uploads/2021/04/The-Suicide-Squad-1-Inshus-Posters.jpg" group-title="HBO+", Suicide Squad (2021)
+http://vod.tuxchannel.tv/peliculas/720/the%20suicide%20squad%202021.mkv
+#EXTINF:0 tvg-name="Teen Titans Go Space Jam" tvg-logo="https://i.ibb.co/SPJhGpN/S2-LJQD4-JPVDHXIJCZHBYRSEDYY.jpg" group-title="HBO+", Teen Titans Go Space Jam (2021)
+http://vod.tuxchannel.tv/peliculas/720/teen%20titans%20go%20see%20space%20jam%202021.mkv
+#EXTINF:0 tvg-name="Space Jam a new Legacy" tvg-logo="https://i.ibb.co/XCZpQgk/36404-482709-20210706093527.jpg" group-title="HBO+", Space Jam a new Legacy
+http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 
 
 *************************** INFANTILES ************************
@@ -80,6 +82,12 @@ http://vod.tuxchannel.tv/peliculas/720/spirit%20untamed%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20forever%20purge%202021.mkv
 #EXTINF:0 tvg-name="Conjuro 3" tvg-logo="https://i.ibb.co/LZxgKfx/36204-715581-20210601021907.jpg" group-title="Terror", El conjuro 3
 http://vod.tuxchannel.tv/peliculas/720/the%20conjuring%20the%20devil%20made%20me%20do%20it%202021.mkv
+#EXTINF:0 tvg-name="Mudanza Mortal" tvg-logo="https://i.ibb.co/RTFCX3j/Mudanza-mortal-356962950-large.jpg" group-title="Terror", Mudanza Mortal (2021)
+http://vod.tuxchannel.tv/peliculas/720/aftermath%202021.mkv
+#EXTINF:0 tvg-name="El exorcismo de Carmen Farias" tvg-logo="https://i.ibb.co/HG9MBKg/36171-332410-20210422124156.jpg" group-title="Terror", El exorcismo de Carmen Farias (2021)
+http://vod.tuxchannel.tv/peliculas/720/el%20exorcismo%20de%20carmen%20farias%202021.mkv
+#EXTINF:0 tvg-name="Terapia de miedo" tvg-logo="https://i.ibb.co/Jc7j311/Terapia-de-miedo.jpg" group-title="Terror", Terapia de miedo
+http://vod.tuxchannel.tv/peliculas/720/terapia%20do%20medo%202021.mkv
 
 
 *********************** MARVEL **********************
